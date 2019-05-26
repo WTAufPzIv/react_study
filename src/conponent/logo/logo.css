@@ -1,0 +1,17 @@
+.logo-container{
+    /* margin-top:50px; */
+    text-align: center;
+    /* margin-bottom: 20px; */
+}
+.Body{
+    background-image: url(../logo/2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;   
+    background-color: initial;
+    height: 100%;
+}
+.fixd-header{
+    position: fixed;
+    top:0;
+    width: 100%;
+}

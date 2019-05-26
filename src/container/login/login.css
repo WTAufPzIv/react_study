@@ -1,0 +1,19 @@
+.am-list-body{
+   background-color: initial;
+}
+.am-list-line{
+    background-color: initial;
+    color: antiquewhite;
+}
+.input{
+    color: antiquewhite;
+}
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width:100%;
+    min-height:100%;
+    width: auto;
+    height: auto;
+  }
